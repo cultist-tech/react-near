@@ -34,4 +34,4 @@ Generation of typed smart contract methods.
 Including ready for use typed methods in popular smart contract [Standards](https://github.com/Muzikanto/react-near/tree/master/src/standards).
 
 ## Link
-[react-near](https://github.com/Muzikanto/react-near])
+[react-near](https://github.com/Muzikanto/react-near)
