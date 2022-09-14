@@ -1,8 +1,5 @@
 # react-near
 
-Link: [react-near](https://github.com/Muzikanto/react-near])
-
-
 <div align="center">
 
 <p align="center">
@@ -36,3 +33,5 @@ Quick implementation of near in your application.
 Generation of typed smart contract methods.
 Including ready for use typed methods in popular smart contract [Standards](https://github.com/Muzikanto/react-near/tree/master/src/standards).
 
+## Link
+[react-near](https://github.com/Muzikanto/react-near])
