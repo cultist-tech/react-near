@@ -36,4 +36,4 @@ Quick implementation of near in your application.
 Generation of typed smart contract methods.
 Including ready for use typed methods in popular smart contract [Standards](https://github.com/Muzikanto/react-near/tree/master/src/standards).
 
-[https://github.com/Muzikanto/react-near(react-near)
+[https://github.com/Muzikanto/react-near](react-near)
